@@ -1,0 +1,150 @@
+{
+  "tables": [
+    {
+      "name": "user_engagement_per_day",
+      "columns": [
+        {
+          "name": "user_id",
+          "type": "INT",
+          "key": "fk"
+        },
+        {
+          "name": "total_sessions",
+          "type": "INT"
+        },
+        {
+          "name": "activity_date",
+          "type": "DATE",
+          "key": "fk"
+        },
+        {
+          "name": "total_time",
+          "type": "VARCHAR"
+        },
+        {
+          "name": "total_vedios",
+          "type": "INT"
+        }
+      ]
+    },
+    {
+      "name": "users",
+      "columns": [
+        {
+          "name": "user_id",
+          "type": "INT",
+          "key": "pk"
+        },
+        {
+          "name": "name",
+          "type": "VARCHAR"
+        },
+        {
+          "name": "signup_date",
+          "type": "DATE"
+        },
+        {
+          "name": "city",
+          "type": "VARCHAR"
+        },
+        {
+          "name": "state",
+          "type": "VARCHAR"
+        },
+        {
+          "name": "phone_number",
+          "type": "VARCHAR"
+        },
+        {
+          "name": "email",
+          "type": "VARCHAR"
+        },
+        {
+          "name": "country",
+          "type": "VARCHAR"
+        },
+        {
+          "name": "aquisition_id",
+          "type": "INT",
+          "key": "fk"
+        }
+      ]
+    },
+    {
+      "name": "date",
+      "columns": [
+        {
+          "name": "date",
+          "type": "DATE",
+          "key": "pk"
+        },
+        {
+          "name": "day",
+          "type": "VARCHAR"
+        },
+        {
+          "name": "quater",
+          "type": "VARCHAR"
+        },
+        {
+          "name": "year",
+          "type": "VARCHAR"
+        },
+        {
+          "name": "month",
+          "type": "VARCHAR"
+        }
+      ]
+    },
+    {
+      "name": "aquisition_channel",
+      "columns": [
+        {
+          "name": "aquisition_id",
+          "key": "pk"
+        },
+        {
+          "name": "name"
+        },
+        {
+          "name": "campaign_id"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "from": {
+        "table": "user_engagement_per_day",
+        "column": "user_id"
+      },
+      "to": {
+        "table": "users",
+        "column": "user_id"
+      },
+      "foreign_key": true
+    },
+    {
+      "from": {
+        "table": "user_engagement_per_day",
+        "column": "activity_date"
+      },
+      "to": {
+        "table": "date",
+        "column": "date"
+      },
+      "foreign_key": true
+    },
+    {
+      "from": {
+        "table": "users",
+        "column": "aquisition_id"
+      },
+      "to": {
+        "table": "aquisition_channel",
+        "column": "aquisition_id"
+      },
+      "foreign_key": true
+    }
+  ]
+}
