@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/shady_ermine_9439), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Above Average Product Prices](./practice/sql/above-average-product-prices) | SQL | Medium | 2026-11-13 |
 | [Who Comes Back](./practice/data_modeling/who-comes-back) | Data Modeling | Medium | 2026-11-11 |
 | [Only Here](./practice/sql/only-here) | SQL | Hard | 2026-11-11 |
 | [The Relentless Searchers](./practice/sql/the-relentless-searchers) | SQL | Medium | 2026-11-10 |
