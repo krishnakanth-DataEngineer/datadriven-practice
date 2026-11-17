@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/shady_ermine_9439), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-11-17 |
 | [Name Recognition](./practice/sql/name-recognition) | SQL | Medium | 2026-11-16 |
 | [Across the Aisles](./practice/sql/across-the-aisles) | SQL | Hard | 2026-11-14 |
 | [Above Average Product Prices](./practice/sql/above-average-product-prices) | SQL | Medium | 2026-11-13 |
