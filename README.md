@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/shady_ermine_9439), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-11-18 |
 | [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-11-17 |
 | [Name Recognition](./practice/sql/name-recognition) | SQL | Medium | 2026-11-16 |
 | [Across the Aisles](./practice/sql/across-the-aisles) | SQL | Hard | 2026-11-14 |
