@@ -14,10 +14,6 @@ select *,
 row_number() over(partition by region order by amount) as low_rnk
 from total_costs)
 
-
-
-
-
 select a.region,a.svc_name , d.svc_name
 from asc_costs a
 join desc_costs d 
