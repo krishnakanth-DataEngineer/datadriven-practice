@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/shady_ermine_9439), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Bargains and Budget-Busters](./practice/sql/bargains-and-budget-busters) | SQL | Hard | 2026-11-20 |
 | [30-Day Page View Counts](./practice/sql/30-day-page-view-counts) | SQL | Easy | 2026-11-19 |
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-11-18 |
 | [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-11-17 |
