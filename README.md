@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/shady_ermine_9439), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-11-25 |
 | [Top 2 Busiest API Slots](./practice/sql/top-2-busiest-api-slots) | SQL | Medium | 2026-11-24 |
 | [Selling Where Nobody Lives](./practice/sql/selling-where-nobody-lives) | SQL | Medium | 2026-11-22 |
 | [Normalization Tradeoffs in Practice](./practice/sql/normalization-tradeoffs-in-practice) | SQL | Hard | 2026-11-22 |
