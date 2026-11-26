@@ -18,7 +18,7 @@ Scored work from [DataDriven](https://datadriven.io/u/shady_ermine_9439), commit
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-11-18 |
 | [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-11-17 |
 | [Name Recognition](./practice/sql/name-recognition) | SQL | Medium | 2026-11-16 |
-| [Across the Aisles](./practice/sql/across-the-aisles) | SQL | Hard | 2026-11-14 |
+| [Across the Aisles](./practice/sql/across-the-aisles) | SQL | Medium | 2026-11-14 |
 | [Above Average Product Prices](./practice/sql/above-average-product-prices) | SQL | Medium | 2026-11-13 |
 | [Who Comes Back](./practice/data_modeling/who-comes-back) | Data Modeling | Medium | 2026-11-11 |
 | [Only Here](./practice/sql/only-here) | SQL | Hard | 2026-11-11 |
