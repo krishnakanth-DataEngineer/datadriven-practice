@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/shady_ermine_9439), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Long Messages](./practice/sql/long-messages) | SQL | Medium | 2026-11-27 |
 | [Metric Range by Department](./practice/sql/metric-range-by-department) | SQL | Medium | 2026-11-26 |
 | [Top Repos by Successful Builds](./practice/sql/top-repos-by-successful-builds) | SQL | Medium | 2026-11-25 |
 | [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-11-25 |
