@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/shady_ermine_9439), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Feature Flag Engagement Impact](./practice/sql/feature-flag-engagement-impact) | SQL | Hard | 2026-11-28 |
 | [Long Messages](./practice/sql/long-messages) | SQL | Medium | 2026-11-27 |
 | [Metric Range by Department](./practice/sql/metric-range-by-department) | SQL | Medium | 2026-11-26 |
 | [Top Repos by Successful Builds](./practice/sql/top-repos-by-successful-builds) | SQL | Medium | 2026-11-25 |
