@@ -23,7 +23,7 @@ Scored work from [DataDriven](https://datadriven.io/u/shady_ermine_9439), commit
 | [Across the Aisles](./practice/sql/across-the-aisles) | SQL | Hard | 2026-11-14 |
 | [Above Average Product Prices](./practice/sql/above-average-product-prices) | SQL | Medium | 2026-11-13 |
 | [Who Comes Back](./practice/data_modeling/who-comes-back) | Data Modeling | Medium | 2026-11-11 |
-| [Only Here](./practice/sql/only-here) | SQL | Hard | 2026-11-11 |
+| [Only Here](./practice/sql/only-here) | SQL | Easy | 2026-11-11 |
 | [The Relentless Searchers](./practice/sql/the-relentless-searchers) | SQL | Medium | 2026-11-10 |
 | [Sirens and Smoke](./practice/sql/sirens-and-smoke) | SQL | Easy | 2026-11-09 |
 | [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Easy | 2026-11-06 |
